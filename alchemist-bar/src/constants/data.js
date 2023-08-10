@@ -2,27 +2,27 @@ import images from './images';
 
 const wines = [
   {
-    title: 'Chapel Hill Shiraz',
-    price: 'Ksh. 8500',
+    title: 'B&G Passeport Bordeaux Blanc',
+    price: 'Ksh. 800',
     tags: 'AU | Bottle',
   },
   {
-    title: 'Catena Malbee',
-    price: 'Ksh. 5900',
+    title: 'DBM Naturally Sweet White',
+    price: 'Ksh. 1000',
     tags: 'AU | Bottle',
   },
   {
-    title: 'La Vieillw Rose',
-    price: 'Ksh. 4400',
+    title: 'Hardys Nottage Hill Sauvignon Blanc',
+    price: 'Ksh. 1200',
     tags: 'FR | 750 ml',
   },
   {
-    title: 'Rhino Pale Ale',
+    title: 'Condor Peak Chardonnay',
     price: 'Ksh. 3100',
     tags: 'CA | 750 ml',
   },
   {
-    title: 'Irish Guinness',
+    title: 'Zonin Valpolicella DOC',
     price: 'Ksh. 2600',
     tags: 'IE | 750 ml',
   },
@@ -30,29 +30,29 @@ const wines = [
 
 const cocktails = [
   {
-    title: 'Aperol Sprtiz',
-    price: 'Ksh. 2000',
-    tags: 'Aperol | Villa Marchesi prosecco | soda | 30 ml',
+    title: 'Senorita',
+    price: 'Ksh. 1,100',
+    tags: 'Don Julio Blanco, house-made blackberry cordial, grapefruit, lime',
   },
   {
-    title: "Dark 'N' Stormy",
-    price: 'Ksh. 1600',
-    tags: 'Dark rum | Ginger beer | Slice of lime',
+    title: "Sangria Tinto",
+    price: 'Ksh. 750',
+    tags: 'Infused red wine, brandy, fruits, soda water',
   },
   {
-    title: 'Daiquiri',
-    price: 'Ksh. 1000',
-    tags: 'Rum | Citrus juice | Sugar',
+    title: 'Vodka Tarragon Gimlet',
+    price: 'Ksh. 970',
+    tags: 'Belvedere, house-made tarragon syrup, lime',
   },
   {
-    title: 'Old Fashioned',
-    price: '$ Ksh. 3100',
-    tags: 'Bourbon | Brown sugar | Angostura Bitters',
+    title: 'El Diablo',
+    price: '$ Ksh. 900',
+    tags: 'Don Julio Blanco, crème de cassis, ginger, lime, ginger beer',
   },
   {
-    title: 'Negroni',
-    price: 'Ksh. 2600',
-    tags: 'Gin | Sweet Vermouth | Campari | Orange garnish',
+    title: 'New York Pisco Sour',
+    price: 'Ksh. 1300',
+    tags: 'Pisco, pineapple syrup, lime, egg whites, float red wine',
   },
 ];
 

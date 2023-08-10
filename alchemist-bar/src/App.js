@@ -10,7 +10,6 @@ function App() {
       <Header />
       <AboutUs />
       <SpecialMenu />
-      <Intro />
       <Gallery />
       <FindUs />
       <Footer />
