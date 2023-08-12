@@ -11,7 +11,6 @@ const FindUs = () => {
         <h1 className='headtext__cormorant' style = {{marginBottom: '3rem'}}>Find Us</h1>
       <div className='app__wrapper-content'>
         <p className ='p__opensans' style = {{marginBottom : '0.5rem'}}>Parklands Road, Westlands, Nairobi, Kenya</p>
-        <p className ='p__opensans'>info@alchemist254.com</p>
         <p className='p__cormorant' style = {{color: '#DCCA87', margin: '2rem 0'}}>Opening Hours</p>
         <p className ='p__opensans' style = {{marginBottom: '2rem'}}>Monday to Sunday: 12: 00pm - Late</p>
       </div>

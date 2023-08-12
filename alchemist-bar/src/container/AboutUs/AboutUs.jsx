@@ -10,7 +10,7 @@ const AboutUs = () => {
         <div className = 'app__aboutus-content_about'>
           <h1 className = 'headtext__cormorant'>About Us</h1>
           <img src = {images.spoon} alt = 'about__spoon' className = '.spoon__img' />
-          <p className = 'p__opensans'> We are a diverse collective of wacky and determined entrepreneurs in food, fashion, music and more. With food trucks, restaurants, shops, cocktail bars, stages and meeting spaces. WE provide the canvas on which Nairobi's leading event organizers paint their creative visions.</p>
+          <p className = 'p__opensans'>WE provide the canvas on which Nairobi's leading event organizers paint their creative visions. Hosting open air cinema, open mic night, parties, fashion shows, yoga and more.</p>
           <button type= 'button' className = 'custom__button'>Know More</button>
         </div>
 
