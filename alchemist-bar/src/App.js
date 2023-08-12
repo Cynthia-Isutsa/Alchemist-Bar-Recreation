@@ -10,8 +10,8 @@ function App() {
       <Header />
       <AboutUs />
       <SpecialMenu />
-      <Gallery />
       <FindUs />
+      <Gallery />
       <Footer />
     </div>
   );
